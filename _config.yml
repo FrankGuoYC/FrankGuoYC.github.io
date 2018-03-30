@@ -1,3 +1,9 @@
-theme: jekyll-theme-cayman
-title: Welcome to Frank Guo's homepage!
-description: Hello, I am Frank. This is my homepage!
+# basic options
+title: Hello Everyone
+description: Hello, I am Frank. This is my blog!
+github_username: FrankGuoYC
+
+# Build settings
+# theme: jekyll-theme-cayman
+markdown: kramdown
+theme: minima
